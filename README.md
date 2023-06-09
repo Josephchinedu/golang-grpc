@@ -1,7 +1,7 @@
 # Golang gRPC
 
 ## About gRPC
-gRPC was created by google. The basic idea is that it makes you server the http to protocol.
+gRPC was created by google. The basic idea is that it makes your server run on the http to protocol.
 It uses this with along another technology called protobuf to make extremely quick and extremely performant RPCs.
 
 #
